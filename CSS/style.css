@@ -1,4 +1,13 @@
-div{ font-size: 20px; 
-    color: midnightblue;
+span    { 
+    font-size: 20px; 
+    color: rgb(2, 2, 255);
+}
+span.bigred{
+    font-size: 50px; 
+    color:olivedrab;
+}
+.bigred {
+    font-size: 35px; 
+    color: rgb(231, 40, 40);
 
 }
